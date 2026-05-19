@@ -1,7 +1,0 @@
-self.addEventListener('install', event => {
-  self.skipWaiting();
-});
-
-self.addEventListener('fetch', event => {
-  // Keeps network requests moving efficiently
-});
